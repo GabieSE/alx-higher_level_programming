@@ -5,3 +5,4 @@
 class Rectangle:
 
     """a class called rectangle"""
+    pass
