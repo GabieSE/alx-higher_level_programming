@@ -1,9 +1,11 @@
 #!/usr/bin/python3
-"""Defines a class called BaseGeometry"""
+"""
+Contains the class BaseGeometry
+"""
+
 
 class BaseGeometry:
-    """Indicates BaseGeometry class"""
+    """A class with public attribute area"""
     def area(self):
-        """Public instance method: not implemented"""
-
+        """raises an exception when called"""
         raise Exception("area() is not implemented")
