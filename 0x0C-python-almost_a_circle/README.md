@@ -1,0 +1,1 @@
+this is a new project that will be including these concepts: Import, Exceptions, Getters/setters, *args, **kwargs, class , private attribute, Class method, Static method, Inheritance, unittest, Read/Write file
