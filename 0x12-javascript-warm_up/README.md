@@ -1,0 +1,1 @@
+Introductory about JavaScript
